@@ -2,7 +2,7 @@
 title: "boston"
 excerpt: "photos from boston."
 header:
-  image: /assets/images/visual/boston/citgo-crop.jpg
+  <!-- image: /assets/images/visual/boston/citgo-crop.jpg -->
   teaser: /assets/images/visual/boston/citgo-crop.jpg
 gallery:
   - url: /assets/images/visual/boston/bench-conversation.jpg

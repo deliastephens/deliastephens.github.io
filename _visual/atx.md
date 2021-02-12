@@ -2,8 +2,8 @@
 title: "atx"
 excerpt: "photos from atx."
 header:
-  image: /assets/images/visual/atx/bridge-dark.jpg
-  teaser: /assets/images/visual/atx/bridge-dark.jpg
+   <!-- image: /assets/images/visual/atx/bridge-dark.jpg -->
+   teaser: /assets/images/visual/atx/bridge-dark.jpg
 gallery:
   - url: /assets/images/visual/atx/aamco.jpg
     image_path: /assets/images/visual/atx/aamco.jpg
@@ -49,5 +49,7 @@ gallery:
     alt: "placeholder image 1"
 
 ---
+
+I used to live in Austin.
 
 {% include gallery  %}
