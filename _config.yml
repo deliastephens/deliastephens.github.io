@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "delia stephens"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "assets/images/delia.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I like stuff that goes fast."
   location         : "Somewhere"
   email            :
@@ -266,6 +266,11 @@ compress_html:
   ignore:
     envs: development
 
+# Collections
+collections:
+  visual:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -280,3 +285,11 @@ defaults:
       comments: # true
       share: true
       related: true
+  # _visual
+  - scope:
+      path: ""
+      type: visual
+    values: 
+      layout: single
+      author_profile: false
+      share: true
