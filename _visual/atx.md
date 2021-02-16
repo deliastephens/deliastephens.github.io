@@ -1,6 +1,6 @@
 ---
-title: "atx"
-excerpt: "photos from atx."
+title: "ATX"
+excerpt: "Photos from Austin."
 header:
    <!-- image: /assets/images/visual/atx/bridge-dark.jpg -->
    teaser: /assets/images/visual/atx/bridge-dark.jpg
