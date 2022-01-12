@@ -41,14 +41,14 @@ body {
     width: calc(100% - #{$right-sidebar-width-narrow});
     padding-right: $right-sidebar-width-narrow;
     width: 100%;
-    padding-right: 0;
+    padding-right: $right-sidebar-width-narrow;
   }
 
   @include breakpoint($x-large) {
     width: calc(100% - #{$right-sidebar-width});
     padding-right: $right-sidebar-width;
-    width: 100%; //jank
-    padding-right: 0;
+    // width: 100%; //jank
+    // padding-right: $right-sidebar-width;;
   }
 
   .page__inner-wrap {
@@ -112,7 +112,7 @@ body {
   p,
   li,
   dl {
-    font-size: 1em;
+    font-size: $type-size-8;
   }
 
   /* paragraph indents */

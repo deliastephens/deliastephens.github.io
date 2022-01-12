@@ -14,5 +14,7 @@ main:
     url: /visual/
   - title: "aero/astro"
     url: /aero/
+  - title: "bike"
+    url: /bike/
   - title: "misc"
     url: /misc/

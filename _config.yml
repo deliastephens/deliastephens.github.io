@@ -97,7 +97,7 @@ author:
   name             : "delia stephens"
   avatar           : "assets/images/delia.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I like stuff that goes fast."
-  location         : 
+  location         :
   email            :
   links:
     - label: "Email"
@@ -274,9 +274,13 @@ collections:
   aero:
     output: true
     permalink: /:collection/:path/
+  bike:
+    output: true
+    ppermalink: /:collection/:path/
   misc:
     output: true
     permalink: /:collection/:path/
+
 
 # Defaults
 defaults:
@@ -295,7 +299,7 @@ defaults:
   - scope:
       path: ""
       type: visual
-    values: 
+    values:
       layout: single
       author_profile: false
       share: true
@@ -303,7 +307,14 @@ defaults:
   - scope:
       path: ""
       type: aero
-    values: 
+    values:
+      layout: single
+      author_profile: false
+      share: true
+  - scope:
+      path: ""
+      type: bike
+    values:
       layout: single
       author_profile: false
       share: true
@@ -311,7 +322,7 @@ defaults:
   - scope:
       path: ""
       type: misc
-    values: 
+    values:
       layout: single
       author_profile: false
       share: true
