@@ -27,7 +27,7 @@ Testing UAVs in the field can be costly: not only must you charge batteries, go 
 
 <!-- ![Final Product](https://github.com/deliastephens/FaultInjector/blob/master/res/FaultInjector.PNG?raw=true) -->
 
-<img align="right" src="https://github.com/deliastephens/FaultInjector/blob/master/res/FaultInjector.PNG?raw=true" width="600">
+<img align="right" src="https://github.com/deliastephens/FaultInjector/blob/master/res/FaultInjector.PNG?raw=true" width="50%">
 
 
 
