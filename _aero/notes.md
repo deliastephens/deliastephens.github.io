@@ -5,10 +5,14 @@ header:
   <!-- image: /assets/images/visual/boston/citgo-crop.jpg -->
   teaser: /assets/images/aero/notes/overview.png
 ---
+**Miscellaneous**
+[Counterhack: Reloaded Summary](/assets/counterhack_reloaded.html)
 
-Here are all of the notes that I've taken from classes so far. These notes are far from comprehensive, but they might be interesting to someone who is thinking about some of the topics of aerospace engineering I also find interesting. If you look really hard, there are probably also answers to interesting problems.
+**MIT**
 
-**Fall 2020** 
+Here are some very rough notes that I took while I was a student at MIT. They are not comprehensive, correct, or very good. I've kept them as a reference for later.
+
+***Fall 2020*** 
 
 [12.421: Physical Principles of Remote Sensing](https://www.dropbox.com/s/g5xdvlxu976h693/12_421.pdf?dl=0)
 
@@ -16,7 +20,7 @@ Here are all of the notes that I've taken from classes so far. These notes are f
 
 _____
 
-**Spring 2020** 
+***Spring 2020*** 
 
 [16.50: Aerospace Propulsion](https://www.dropbox.com/s/d4hxc5virykkrqc/16_50.pdf?dl=0) 
 
@@ -25,7 +29,7 @@ _____
 [16.09: Real-Time Systems and Software](https://www.dropbox.com/s/5np2tm3cfbb7uyk/16_09.pdf?dl=0) 
 
 ____
-**Fall 2020**
+***Fall 2020***
 
 [16.06: Principles of Automatic Control](https://www.dropbox.com/s/uv238vrj03k2jso/16_06.pdf?dl=0)
 
@@ -34,7 +38,7 @@ ____
 [16.410: Principles of Autonomy \& Decision Making](https://www.dropbox.com/s/lfgvfqjc4j4p185/16_410.pdf?dl=0)
 
 ____
-**Unified Engineering (Fall/Spring 2019)**
+***Unified Engineering (Fall/Spring 2019)***
 
 [Fluids](https://www.dropbox.com/s/7gzemxzlwq4l36o/Fluids.pdf?dl=0)
 
