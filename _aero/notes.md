@@ -1,11 +1,12 @@
 ---
 title: "Notes"
-excerpt: "Excerpts of notes from MIT Coursework."
+excerpt: "Excerpts of the notes I've taken."
 header:
   <!-- image: /assets/images/visual/boston/citgo-crop.jpg -->
   teaser: /assets/images/aero/notes/overview.png
 ---
 **Miscellaneous**
+
 [Counterhack: Reloaded Summary](/assets/counterhack_reloaded.html)
 
 **MIT**
@@ -29,7 +30,7 @@ _____
 [16.09: Real-Time Systems and Software](https://www.dropbox.com/s/5np2tm3cfbb7uyk/16_09.pdf?dl=0) 
 
 ____
-***Fall 2020***
+***Fall 2019***
 
 [16.06: Principles of Automatic Control](https://www.dropbox.com/s/uv238vrj03k2jso/16_06.pdf?dl=0)
 
@@ -38,7 +39,7 @@ ____
 [16.410: Principles of Autonomy \& Decision Making](https://www.dropbox.com/s/lfgvfqjc4j4p185/16_410.pdf?dl=0)
 
 ____
-***Unified Engineering (Fall/Spring 2019)***
+***Unified Engineering (Fall 2018/Spring 2019)***
 
 [Fluids](https://www.dropbox.com/s/7gzemxzlwq4l36o/Fluids.pdf?dl=0)
 

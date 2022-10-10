@@ -2,8 +2,8 @@
 title: "Beer Bottle Cage"
 excerpt: "Maybe my worst idea so far."
 header:
-  <!-- image: /assets/images/visual/boston/citgo-crop.jpg -->
-  teaser: "/assets/images/projects/bike-bottle/thumbnail.jpg"
+  <!-- image: /assets/images/projects/bike-bottle/on-bike-bottle-3.jpg -->
+  teaser: "/assets/images/projects/bike-bottle/on-bike-bottle-3.jpg"
 gallery:
   - url: /assets/images/projects/bike-bottle/bike-far-with-bottle-1.jpg
     image_path: /assets/images/projects/bike-bottle/bike-far-with-bottle-1.jpg

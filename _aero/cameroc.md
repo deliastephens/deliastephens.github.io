@@ -2,11 +2,11 @@
 title: "Cameroc"
 excerpt: "Cluster D-Motor rocket to launch a GoPro."
 header:
-  <!-- image: /assets/images/visual/boston/citgo-crop.jpg -->
+  <!-- image: /assets/images/aero/cameroc/rocket_launch.jpg -->
   teaser: /assets/images/aero/cameroc/rocket_launch.jpg
 ---
 
-My junior/senior year, I decided to build a rocket that would launch a GoPro into flight.
+My junior/senior year of high school, I decided to build a rocket that would launch a GoPro into flight.
 
 ![Rocket Launch](/assets/images/aero/cameroc/rocket_launch.jpg)
 
