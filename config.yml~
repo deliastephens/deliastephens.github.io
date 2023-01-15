@@ -1,0 +1,37 @@
+baseURL: 
+title: delia stephens
+paginate: 5
+theme:
+  - charlolamode
+  - hugo-shortcode-gallery 
+
+menu:
+  main:
+     - name: aeroastro
+       url: /aeroastro/
+       weight: 20
+
+params:
+  author: Delia Stephens
+  
+  defaultTheme: auto
+  ShowShareButtons: false
+  ShowToc: false
+  
+  profileMode:
+    enabled: true
+    title: Delia Stephens
+    description: |
+      Hi! I'm Delia. I recently graduated with a combined SB/SM from MIT AeroAstro, where my research focused on [developing flexible policies for decision-making under uncertainty](https://dspace.mit.edu/bitstream/handle/1721.1/144709/Stephens-delias-SM-AeroAstro-2022-thesis.pdf?sequence=1&isAllowed=y). Right now, I'm learning how computers work as a Cyber Operations Officer in the United States Air Force.
+
+      I like to keep myself busy by riding (and fixing) bicycles, shooting photos, and making useless things. In the past, I've built a rocket that carries a GoPro, biked across the country, and taken a lot of notes.
+    imageUrl: "/images/profile.jpg"
+    imageTitle: Delia Stephens
+
+    buttons:
+
+  assetDir: "/static"
+
+      
+
+      

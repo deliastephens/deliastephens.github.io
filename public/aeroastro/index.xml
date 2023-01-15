@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>aero/astro on delia stephens</title>
+    <link>/aeroastro/</link>
+    <description>Recent content in aero/astro on delia stephens</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="/aeroastro/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cameroc</title>
+      <link>/aeroastro/cameroc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/aeroastro/cameroc/</guid>
+      <description>My junior/senior year of high school, I decided to build a rocket that would launch a GoPro into flight.
+I charged into the building of my first iteration with little regard to engineering procedures, picking values semi-randomly until I got something that seemed like it would fly.
+The results? Well, I did build a 3-foot-tall, 3-inch diameter model rocket launched by a LiPo battery. The fins were huge, the motor mount barely attached to the inside of the rocket, and the GoPro duct tape inside and protected by the outside of a big water bottle we had laying around.</description>
+    </item>
+    
+    <item>
+      <title>Fault Injector</title>
+      <link>/aeroastro/faultinjector/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/aeroastro/faultinjector/</guid>
+      <description>Project Overview Testing UAVs in the field can be costly: not only must you charge batteries, go through checklists, prepare the drone, transport people and materials to the testing site, and return everything to its place, there is the chance that the changes you have made will fail. Software-in-the-loop (SITL) simulation eliminates the need for physical tests but maintains the integrity of the testing environment by linking a flight dynamics model such as JSBSim to the autopilot, enabling rapid development and testing of UAV software.</description>
+    </item>
+    
+  </channel>
+</rss>
