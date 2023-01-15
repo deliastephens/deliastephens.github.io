@@ -1,6 +1,6 @@
 ---
 title: Fault Injector
-dateMonthYear: August 2019 
+date: "2019-08-31"
 description: Development of a robust SITL UAV testing environment.
 image: https://github.com/deliastephens/FaultInjector/blob/master/res/FaultInjector.PNG?raw=true
 ---

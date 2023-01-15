@@ -1,6 +1,6 @@
 ---
 title: MIT Spokes America
-dateMonthYear: May 2018
+date: "2018-05-31"
 description: Inexperienced cycling trip.
 image: /images/spokes.jpg
 ---

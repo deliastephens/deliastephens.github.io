@@ -1,6 +1,6 @@
 ---
 title: "MAJA"
-dateMonthYear: August 2019
+date: "2019-08-31"
 description: "Building a custom drone model for PhoenixRC."
 image: /images/aero/maja/materials.PNG
 ---
