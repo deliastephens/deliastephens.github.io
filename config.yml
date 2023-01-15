@@ -1,4 +1,5 @@
-baseURL: https://deliastephens.github.io
+baseURL: https://deliastephens.github.io/
+
 title: delia stephens
 paginate: 5
 theme:
