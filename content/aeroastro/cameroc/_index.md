@@ -1,6 +1,6 @@
 ---
 title: Cameroc
-dateMonthYear: May 2017
+date: "2012-04-06"
 description: Cluster D-Motor rocket to launch a GoPro.
 image: "/images/aero/cameroc/rocket_launch.jpg"
 ---
