@@ -1,6 +1,6 @@
 ---
 title: MIT
-dateMonthYear: May 2022
+date: "2022-06-4"
 description: Notes I took as a student at MIT.
 image: /images/overview.png
 ---

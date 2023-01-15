@@ -1,6 +1,6 @@
 ---
 title: Beer Bottle Cage
-dateMonthYear: January 2022
+date: "2022-01-13"
 description: Rapid prototyping of a bad idea.
 image: /images/projects/bike-bottle/on-bike-bottle-1.jpg
 ---

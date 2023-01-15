@@ -1,6 +1,6 @@
 ---
 title: MuteStreams
-dateMonthYear: August 2016
+date: "2015-11-10"
 description: Automatic muting for annoying commercials.
 image: /images/mutestreams.PNG
 ---
