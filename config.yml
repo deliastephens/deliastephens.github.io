@@ -1,7 +1,8 @@
 baseURL: https://deliastephens.github.io/
 
 title: delia stephens
-paginate: 5
+paginate: 
+  pagerSize: 5
 theme:
   - charlolamode
   - hugo-shortcode-gallery 
