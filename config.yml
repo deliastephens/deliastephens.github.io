@@ -1,7 +1,7 @@
 baseURL: https://deliastephens.github.io/
 
 title: delia stephens
-paginate: 
+pagination: 
   pagerSize: 5
 theme:
   - charlolamode
