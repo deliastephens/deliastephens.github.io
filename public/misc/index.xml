@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>misc on delia stephens</title>
+    <link>http://localhost:1313/misc/</link>
+    <description>Recent content in misc on delia stephens</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 13 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/misc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Beer Bottle Cage</title>
+      <link>http://localhost:1313/misc/bike-bottle-cage/</link>
+      <pubDate>Thu, 13 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/misc/bike-bottle-cage/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;I recently built a mountain bike, and promptly discovered that although riding a mountain bike is very fun, I am very bad at it. Fortunately, I am a woman of great ideas, and I realized that I could become better at mountain biking if I could easily carry delicious canned beverages with me. Unforunately, these canned beverages are too small to  fit inside a standard bottle cage. Enter the &lt;strong&gt;Beer Can Express&lt;/strong&gt;, the first (that I can tell) bottle cage designed specifically to fully secure a 12oz can.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MIT Spokes America</title>
+      <link>http://localhost:1313/misc/spokes/</link>
+      <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/misc/spokes/</guid>
+      <description>&lt;p&gt;Summer 2018, I biked across the country, hosting workshops about science, technology, engineering, and math along the way. We stayed at 60+ homes, taught over 200 students, and raised a little under $30,000 to make this program happen.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/spokes.jpg&#34; alt=&#34;Spokes Final&#34;  /&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The trip was a gigantic organizational challenge. We had to determine where we were going, what we would be doing, what we would be eating, how to get money, which bikes we would use, what equipment we would need, etc. My spring semester last year was occupied by these challenges, as I was in charge of fundraising the money to get us there. I wrote grant proposals, contacted advisors, friends, etc., and organized a crowdfunding campaign to get us across the country.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MuteStreams</title>
+      <link>http://localhost:1313/misc/mutestreams/</link>
+      <pubDate>Tue, 10 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/misc/mutestreams/</guid>
+      <description>&lt;p&gt;In middle school, I had an idea: what if your TV could be muted automatically? While there existed programs to evaluate changes in television volume and search closed captioning devices for &amp;ldquo;trigger words&amp;rdquo;, no robust, easy-to-use system existed to mute a television automatically. Thus, MuteStreams was born.&lt;/p&gt;&#xA;&lt;p&gt;For my invention, I was awarded two U.S. Patents: &lt;a href=&#34;https://patents.justia.com/patent/9357259&#34;&gt;Methods for Processing Mute Signals&lt;/a&gt; and &lt;a href=&#34;https://patents.justia.com/patent/9210466&#34;&gt;Systems and Methods for Controlling Broadcast Audio Volume&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;The invention was an easy way for &amp;ldquo;subscribers&amp;rdquo; to have their televisions automatically muted by more vigilant users. These vigilant users would mute their televisions when a commercial came on. This &amp;ldquo;mute signal&amp;rdquo;, interpreted by a device plugged into the set-top box and comprised of the mute instance and a program number, would be sent by TCP/IP protocol to a remote server, aggregated with other mute signals, and distributed across a network to the subscribers.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

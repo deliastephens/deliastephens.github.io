@@ -5,7 +5,9 @@ pagination:
   pagerSize: 5
 theme:
   - charlolamode
-  - hugo-shortcode-gallery 
+  - hugo-shortcode-gallery
+
+timeout: "300s"
 
 menu:
   main:

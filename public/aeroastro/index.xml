@@ -2,28 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>aero/astro on delia stephens</title>
-    <link>/aeroastro/</link>
+    <link>http://localhost:1313/aeroastro/</link>
     <description>Recent content in aero/astro on delia stephens</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="/aeroastro/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Cameroc</title>
-      <link>/aeroastro/cameroc/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/aeroastro/cameroc/</guid>
-      <description>My junior/senior year of high school, I decided to build a rocket that would launch a GoPro into flight.
-I charged into the building of my first iteration with little regard to engineering procedures, picking values semi-randomly until I got something that seemed like it would fly.
-The results? Well, I did build a 3-foot-tall, 3-inch diameter model rocket launched by a LiPo battery. The fins were huge, the motor mount barely attached to the inside of the rocket, and the GoPro duct tape inside and protected by the outside of a big water bottle we had laying around.</description>
-    </item>
-    
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 31 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/aeroastro/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fault Injector</title>
-      <link>/aeroastro/faultinjector/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/aeroastro/faultinjector/</guid>
-      <description>Project Overview Testing UAVs in the field can be costly: not only must you charge batteries, go through checklists, prepare the drone, transport people and materials to the testing site, and return everything to its place, there is the chance that the changes you have made will fail. Software-in-the-loop (SITL) simulation eliminates the need for physical tests but maintains the integrity of the testing environment by linking a flight dynamics model such as JSBSim to the autopilot, enabling rapid development and testing of UAV software.</description>
+      <link>http://localhost:1313/aeroastro/fault-injector/</link>
+      <pubDate>Sat, 31 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/aeroastro/fault-injector/</guid>
+      <description>&lt;h2 id=&#34;project-overview&#34;&gt;Project Overview&lt;/h2&gt;&#xA;&lt;p&gt;Testing UAVs in the field can be costly: not only must you charge batteries, go through checklists, prepare the drone, transport people and materials to the testing site, and return everything to its place, there is the chance that the changes you have made will fail. Software-in-the-loop (&lt;a href=&#34;http://ardupilot.org/dev/docs/sitl-simulator-software-in-the-loop.html&#34;&gt;SITL&lt;/a&gt;) simulation eliminates the need for physical tests but maintains the integrity of the testing environment by linking a flight dynamics model such as &lt;a href=&#34;http://jsbsim.sourceforge.net/&#34;&gt;JSBSim&lt;/a&gt; to the autopilot, enabling rapid development and testing of UAV software.&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title>MAJA</title>
+      <link>http://localhost:1313/aeroastro/maja/</link>
+      <pubDate>Sat, 31 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/aeroastro/maja/</guid>
+      <description>&lt;h2 id=&#34;project-overview&#34;&gt;Project Overview&lt;/h2&gt;&#xA;&lt;p&gt;During Summer 2019, while working at &lt;a href=&#34;https://www.cicataqro.ipn.mx/cq/qro/Paginas/../index.html&#34;&gt;CICATA&lt;/a&gt;, I was tasked with desiging a flight program to train people on the &lt;a href=&#34;https://www.bormatec.com/produkte&#34;&gt;Bormatec MAJA&lt;/a&gt;, a long-range UAV designed to hold large payloads for aerial surveillance. In addition to desiging checklists and flight logs, I created a model of the drone for use in PhoenixRC, a now-defunct flight simulator that the program had readily available.&lt;/p&gt;&#xA;&lt;p&gt;While a more detailed description of the process I used is available in Gist format &lt;a href=&#34;https://gist.github.com/deliastephens/a7144b50509f97a37b59a5e540ffdf5c&#34;&gt;here&lt;/a&gt;, below is a brief overview of what I accomplished over the course of a couple of weeks over the summer. I went from only baseline modeling experience to relative proficiency, producing a model that is similar in appearance and functionality to the Bormatec MAJA.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

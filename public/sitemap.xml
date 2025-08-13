@@ -2,26 +2,63 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/aeroastro/</loc>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2022-06-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/articles/</loc>
+    <loc>http://localhost:1313/notes/mit/</loc>
+    <lastmod>2022-06-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/aeroastro/cameroc/</loc>
+    <loc>http://localhost:1313/notes/</loc>
+    <lastmod>2022-06-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>http://localhost:1313/misc/bike-bottle-cage/</loc>
+    <lastmod>2022-01-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/contact/</loc>
+    <loc>http://localhost:1313/misc/</loc>
+    <lastmod>2022-01-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>http://localhost:1313/aeroastro/</loc>
+    <lastmod>2019-08-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/aeroastro/faultinjector/</loc>
+    <loc>http://localhost:1313/aeroastro/fault-injector/</loc>
+    <lastmod>2019-08-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/projects/math-brain-trainer/</loc>
+    <loc>http://localhost:1313/aeroastro/maja/</loc>
+    <lastmod>2019-08-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/projects/</loc>
+    <loc>http://localhost:1313/misc/spokes/</loc>
+    <lastmod>2018-05-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/articles/article/</loc>
+    <loc>http://localhost:1313/misc/mutestreams/</loc>
+    <lastmod>2015-11-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>http://localhost:1313/aeroastro/cameroc/</loc>
+    <lastmod>2012-04-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/articles/</loc>
+  </url><url>
+    <loc>http://localhost:1313/visual/austin/</loc>
+  </url><url>
+    <loc>http://localhost:1313/visual/boston/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/contact/</loc>
+  </url><url>
+    <loc>http://localhost:1313/visual/film/</loc>
+  </url><url>
+    <loc>http://localhost:1313/visual/film-development/</loc>
+  </url><url>
+    <loc>http://localhost:1313/visual/marfa/</loc>
+  </url><url>
+    <loc>http://localhost:1313/projects/math-brain-trainer/</loc>
+  </url><url>
+    <loc>http://localhost:1313/projects/</loc>
+  </url><url>
+    <loc>http://localhost:1313/articles/article/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/visual/</loc>
   </url>
 </urlset>
